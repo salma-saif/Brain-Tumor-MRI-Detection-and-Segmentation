@@ -1,0 +1,8 @@
+streamlit
+tensorflow
+numpy
+Pillow
+opencv-python
+keras
+werkzeug==2.3.7
+  
